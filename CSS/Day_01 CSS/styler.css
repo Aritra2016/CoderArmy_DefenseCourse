@@ -1,0 +1,36 @@
+/* h1{
+    background-color: antiquewhite;
+    font-size: 30 px;
+}
+
+ul{
+    background-color: aquamarine;
+} */
+
+/*id selector*/
+/* #first{
+    background-color: aquamarine;
+    font-size: 30px;
+}
+
+#second{
+    background-color: pink;
+    font-size: 10px;
+} */
+
+
+/*class selector*/
+/* .third{
+    background-color: green;
+    font-size: 30px;
+}
+
+.fourth{
+    background-color: blanchedalmond;
+} */
+
+/*grouping selector*/
+h1, .fourth{
+    background-color: antiquewhite;
+    font-size: 30px;
+}
